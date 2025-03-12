@@ -1,0 +1,56 @@
+.head{
+    height: auto;
+    background-color: rgb(98, 59, 134);
+    text-align: center;
+    font-size: larger;
+    margin-bottom: 20px;
+   padding: 30px;
+
+}
+.menu{
+background-color: red;
+height: auto;
+text-align: center;
+margin-bottom: 20px;
+padding: 30px;
+
+}
+.table{
+border-collapse: collapse;
+width: 30%;
+}
+
+th,
+td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px 10px;
+}
+.sbar{
+ width: 30%; height: auto; 
+
+
+}
+.cont{
+    display: flex;
+    background-color: cadetblue; height:400 px; width: 80%%; text-align: center;
+    margin-bottom: 30px;
+}
+
+img{
+
+    height:40px;
+    margin-right: 40px;
+}
+.btn{
+
+    text-align: center;
+    background-color: chocolate;
+    font-size: 20px;
+    padding: 18px 35px;
+    border: none;
+
+}
+.foot{
+    text-align: center;
+}
