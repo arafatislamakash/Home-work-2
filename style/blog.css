@@ -17,17 +17,19 @@ padding: 30px;
 }
 .table{
 border-collapse: collapse;
-width: 30%;
+font-size: 50px;
+width:40%
+
 }
 
 th,
 td {
     text-align: center;
     border: 1px solid black;
-    padding: 5px 10px;
+    padding: 10px 15px;
 }
 .sbar{
- width: 30%; height: auto; 
+ width: 40%;
 
 
 }
@@ -52,5 +54,5 @@ img{
 
 }
 .foot{
-    text-align: center;
+text-align: center;
 }
